@@ -36,12 +36,6 @@ main{
     background-color: aliceblue;
     border-radius: 20px;
     text-align: center;
-    /* position: absolute;
-    margin: auto;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0; */
 }
 .informacoes-pessoais{
     height: 76%;
