@@ -1,3 +1,6 @@
+@media (max-width:700px) {
+   
+}
 @media (max-width:390px) {
    main {
       min-width: 310px;
@@ -13,12 +16,7 @@
    }
 
    h1,
-   h2 {
+   .numeros {
       margin-top: 5px;
    }
-
-   .top, .bottom{
-      display: none;
-   }
-
 }
